@@ -47,7 +47,7 @@ var APP_DATA = {
           "yaw": 0.22835671309076488,
           "pitch": 0.43239964524400243,
           "title": "ZŠ Dukelská 11",
-          "text": "Naše škola sídlí v krásné historické budově z počátku 20 stol. Samotné centrum Českých Budějovic je na dohled."
+          "text": "Naše škola sídlí v krásné historické budově z počátku 20. století, která v uplynulých letech prošla pečlivou modernizací. Součástí proměny byla mimo jiné nová střecha, rozvody elektřiny i výstavba multifunkční sportovní haly na školním dvoře. Centrum Českých Budějovic se nachází v bezprostřední blízkosti."
         }
       ]
     },
