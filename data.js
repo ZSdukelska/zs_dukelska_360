@@ -240,7 +240,7 @@ var APP_DATA = {
           "yaw": -1.3453272627629165,
           "pitch": 0.3339605740492857,
           "title": "Malé venkovní hřiště",
-          "text": "Malé venkovní hřiště je další prostor pro sportovní a pohybové aktivity. Využíváno je například školní družinou."
+          "text": "Malé venkovní hřiště je další prostor pro sportovní a pohybové aktivity. Využíváno je například i školní družinou."
         }
       ]
     },
@@ -309,7 +309,7 @@ var APP_DATA = {
           "yaw": -2.6064551050685107,
           "pitch": 0.3369471236314574,
           "title": "Střešní hřiště",
-          "text": "Na střeše nové multifunkční haly vznikl prostor pro odpočinek, venkovní výuku a pohybové aktivity."
+          "text": "Střecha nové multifunkční haly slouží jako prostor pro odpočinek, venkovní výuku i pohybové aktivity a představuje efektivní využití dostupného prostoru."
         }
       ]
     },
