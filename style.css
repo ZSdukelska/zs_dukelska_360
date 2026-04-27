@@ -828,3 +828,17 @@ body.view-control-buttons .viewControlButton {
 .viewControlButton-6 {
   margin-left: 105px;
 }
+
+/* ==== Marzipano: názvy přechodů vždy viditelné ==== */
+
+.link-hotspot-tooltip {
+  opacity: 1 !important;
+  transform: translateX(0) !important;
+  pointer-events: none;
+}
+
+/* Lepší čitelnost na mobilu */
+.mobile .link-hotspot-tooltip {
+  font-size: 14px;
+  padding: 6px 8px;
+}
